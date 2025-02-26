@@ -1,0 +1,40 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Dodge The Blocks.tsx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "Dodge The Blocks.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "level 0.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 864,
+                "y": 648
+            }
+        }
+    },
+    "last.imagePath": "C:/Users/ulice/dodge_the_blocks/assets/images",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "openFiles": [
+        "Dodge The Blocks.tsx",
+        "level 0.tmx"
+    ],
+    "project": "Background.tiled-project",
+    "recentFiles": [
+        "level 0.tmx",
+        "Dodge The Blocks.tsx"
+    ],
+    "resizeMap.removeObjects": true,
+    "tileset.lastUsedFormat": "tsx"
+}
